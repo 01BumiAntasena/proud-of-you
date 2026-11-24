@@ -1,4 +1,4 @@
-const message = `Halo cantiku, sayangku duniaku.\nsedang sedih ya? pantes disini hujan ternyata cantiku lagi ga baik baik aja, manusia setan emang orang kaya gitus.\n\ntapi aku tau kamu udah hebat bisa ngadepin orang gitu wkk. terimakasih ya udah jadi anak baik. Kalau hari kamu buruk kamu harus selalu "inget" \n\nI if you are having a bad day, remember is just a bad day not a bad life\n\nAnyway, I hope you're doing okay, karena akan selalu ada aku yang menunggu ceritamu.`;
+const message = `Halo cantiku, sayangku duniaku.\nsedang sedih ya? pantes disini hujan ternyata cantiku lagi ga baik baik ajas.\n\ntapi aku tau kamu udah hebat bisa ngadepin orang gitu. terimakasih ya udah jadi anak baik. Kalau hari kamu buruk kamu harus selalu "inget" \n\nI if you are having a bad day, remember is just a bad day not a bad life\n\nAnyway, I hope you're doing okay, karena akan selalu ada aku yang menunggu ceritamu.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
